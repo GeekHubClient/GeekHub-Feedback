@@ -20,4 +20,3 @@
 ![IMG_8](./Screenshots/IMG_8.png)
 ![IMG_9](./Screenshots/IMG_9.png)
 ![IMG_10](./Screenshots/IMG_10.png)
-![IMG_11](./Screenshots/IMG_11.png)
