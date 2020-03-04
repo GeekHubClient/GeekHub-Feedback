@@ -1,5 +1,5 @@
-# Geek for GitHub
-此仓库用来收集Geek for GitHub的意见与建议。
+# GeekHub for GitHub
+此仓库用来收集GeekHub for GitHub的意见与建议。
 
 [![](https://img.shields.io/itunes/v/1476496206.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1476496206) ![](https://img.shields.io/badge/platform-iOS11+-orange.svg) 
 
