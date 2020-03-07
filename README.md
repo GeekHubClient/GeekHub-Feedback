@@ -1,6 +1,5 @@
 # GeekHub for GitHub
-This repo is used for collecting feedback from GeekHub users
-此仓库用来收集GeekHub用户的反馈
+This repo is used for collecting feedback from GeekHub users - 此仓库用来收集GeekHub用户反馈
 
 [![](https://img.shields.io/itunes/v/1476496206.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1476496206) ![](https://img.shields.io/badge/platform-iOS11+-orange.svg) 
 
@@ -21,5 +20,5 @@ This repo is used for collecting feedback from GeekHub users
 
 # Contact
 - Email: evanzhou1989@gmail.com
+- QQ Group: [744010852](//shang.qq.com/wpa/qunwpa?idkey=ec04d730cab686b4f8f898ae3a09b10f2f551070828173d3a799632eb7f0a048) 
 - Telegram: https://t.me/GeekHub
-- QQ Group: 744010852
