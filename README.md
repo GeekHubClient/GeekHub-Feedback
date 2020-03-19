@@ -21,4 +21,4 @@ This repo is used for collecting feedback from GeekHub users - 此仓库用来�
 # Contact
 - Email: evanzhou1989@gmail.com
 - QQ Group: [744010852](//shang.qq.com/wpa/qunwpa?idkey=8a2c6870d52224b915c357475a698f81c68a196d3115b4580166f8d14b127697) 
-- Telegram: https://t.me/GeekHub
+- Telegram: https://t.me/GeekHubClient
