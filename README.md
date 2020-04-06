@@ -1,7 +1,7 @@
 # GeekHub for GitHub
 This repo is used for collecting feedback from GeekHub users - 此仓库用来收集GeekHub用户反馈
 
-[![](https://img.shields.io/itunes/v/1476496206.svg?label=App%20Store&colorA=0576FF&colorB=0576FF)](https://apps.apple.com/cn/app/id1476496206) ![](https://img.shields.io/badge/platform-iOS11+-orange.svg) 
+[![](https://img.shields.io/itunes/v/1476496206.svg?label=App%20Store)](https://apps.apple.com/cn/app/id1476496206) ![](https://img.shields.io/badge/platform-iOS11+-orange.svg) 
 
 [![App_Store](./Screenshots/Download_on_the_App_Store.svg)](https://apps.apple.com/cn/app/id1476496206)
 
