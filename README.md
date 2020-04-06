@@ -8,15 +8,16 @@ This repo is used for collecting feedback from GeekHub users - 此仓库用来�
 
 
 # Screenshots
-![IMG_2](./Screenshots/IMG_2.png)
-![IMG_3](./Screenshots/IMG_3.png)
-![IMG_4](./Screenshots/IMG_4.png)
-![IMG_5](./Screenshots/IMG_5.png)
-![IMG_6](./Screenshots/IMG_6.png)
-![IMG_7](./Screenshots/IMG_7.png)
-![IMG_8](./Screenshots/IMG_8.png)
-![IMG_9](./Screenshots/IMG_9.png)
-![IMG_10](./Screenshots/IMG_10.png)
+![screenshot_1.png](./Screenshots/screenshot_1.png)
+![screenshot_2.png](./Screenshots/screenshot_2.png)
+![screenshot_3.png](./Screenshots/screenshot_3.png)
+![screenshot_4.png](./Screenshots/screenshot_4.png)
+![screenshot_5.png](./Screenshots/screenshot_5.png)
+![screenshot_6.png](./Screenshots/screenshot_6.png)
+![screenshot_7.png](./Screenshots/screenshot_7.png)
+![screenshot_8.png](./Screenshots/screenshot_8.png)
+![screenshot_9.png](./Screenshots/screenshot_9.png)
+![screenshot_10.png](./Screenshots/screenshot_10.png)
 
 # Contact
 - Email: evanzhou1989@gmail.com
