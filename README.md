@@ -8,15 +8,15 @@ This repo is used for collecting feedback from GeekHub users - 此仓库用来�
 
 
 # Screenshots
-![screenshot_1.PNG](./Screenshots/screenshot_1.PNG)
-![screenshot_2.PNG](./Screenshots/screenshot_2.PNG)
-![screenshot_3.PNG](./Screenshots/screenshot_3.PNG)
-![screenshot_4.PNG](./Screenshots/screenshot_4.PNG)
-![screenshot_5.PNG](./Screenshots/screenshot_5.PNG)
-![screenshot_6.PNG](./Screenshots/screenshot_6.PNG)
-![screenshot_7.PNG](./Screenshots/screenshot_7.PNG)
-![screenshot_8.PNG](./Screenshots/screenshot_8.PNG)
-![screenshot_9.PNG](./Screenshots/screenshot_9.PNG)
+![screenshot_1.png](./Screenshots/screenshot_1.png)
+![screenshot_2.png](./Screenshots/screenshot_2.png)
+![screenshot_3.png](./Screenshots/screenshot_3.png)
+![screenshot_4.png](./Screenshots/screenshot_4.png)
+![screenshot_5.png](./Screenshots/screenshot_5.png)
+![screenshot_6.png](./Screenshots/screenshot_6.png)
+![screenshot_7.png](./Screenshots/screenshot_7.png)
+![screenshot_8.png](./Screenshots/screenshot_8.png)
+![screenshot_9.png](./Screenshots/screenshot_9.png)
 
 # Contact
 - WeiBo:  [@evanzhou0319](https://weibo.com/u/5649860251)
