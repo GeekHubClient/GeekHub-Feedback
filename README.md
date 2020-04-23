@@ -19,7 +19,7 @@ This repo is used for collecting feedback from GeekHub users - 此仓库用来�
 ![screenshot_9.png](./Screenshots/screenshot_9.png)
 
 # Contact
-- WeiBo:  [@evanzhou0319](https://weibo.com/u/5649860251)
+- Weibo:  [@evanzhou0319](https://weibo.com/u/5649860251)
 - Email: evanzhou1989@gmail.com
 - QQ Group: 744010852
 - Telegram: https://t.me/GeekHubClient
